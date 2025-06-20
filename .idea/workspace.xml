@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce0daf4-ec68-4e42-9f17-5a1af60c580d" name="Changes" comment="" />
+    <list default="true" id="3ce0daf4-ec68-4e42-9f17-5a1af60c580d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nopcommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_pages/Add_Customer_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_pages/Login_Admin_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/nopcommerce.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/test_admin_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_cases/test_admin_login_data_driven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/excel_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/read_properties.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,8 +53,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.read_properties.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">

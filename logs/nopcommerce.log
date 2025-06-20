@@ -1,0 +1,21 @@
+2025-06-19 19:48:04:INFO:patching driver executable C:\Users\hp1\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-19 19:48:05:INFO:***********Test_01_Admin_Login**************
+2025-06-19 19:48:05:INFO:***********Verification of Title*********
+2025-06-19 19:48:12:INFO:************Test_Title_Verification Title matched**********
+2025-06-19 19:48:13:INFO:**********Test_valid_admin_login_started*********
+2025-06-19 19:48:30:INFO:***********Valid Admin********
+2025-06-19 19:48:31:INFO:**************Test_Invalid_admin_Login****************
+2025-06-19 19:48:39:INFO:***********Valid Username/email*********
+2025-06-20 11:08:48:INFO:patching driver executable C:\Users\hp1\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:08:50:INFO:***********Test_01_Admin_Login**************
+2025-06-20 11:08:50:INFO:***********Verification of Title*********
+2025-06-20 11:08:56:INFO:************Test_Title_Verification Title matched**********
+2025-06-20 11:08:57:INFO:**********Test_valid_admin_login_started*********
+2025-06-20 11:09:14:INFO:***********Valid Admin********
+2025-06-20 11:09:15:INFO:**************Test_Invalid_admin_Login****************
+2025-06-20 17:58:37:INFO:patching driver executable C:\Users\hp1\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 17:58:38:INFO:**********Test_valid_admin_login_started*********
+2025-06-20 17:58:54:INFO:***********Valid Admin********
+2025-06-20 18:45:16:INFO:patching driver executable C:\Users\hp1\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 18:45:18:INFO:**********Test_valid_admin_login_started*********
+2025-06-20 18:45:35:INFO:***********Valid Admin********
